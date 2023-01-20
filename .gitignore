@@ -1,5 +1,3 @@
 .idea
 .vscode
-/infrastructures
-infrastructures
-./infrastructures
+/build
