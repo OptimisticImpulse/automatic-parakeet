@@ -1,5 +1,6 @@
 ---
 name: "💬 Discuss"
+about: Test template
 description: Start a discussion 
 title: "[Discuss]: Discuss title"
 labels: [discuss]
