@@ -4,6 +4,7 @@ description: Start a discussion
 title: "[Discuss]: Discuss title"
 labels: [discuss]
 assignees: []
+---
 body:
   - type: textarea
     id: description
